@@ -201,3 +201,5 @@ if __name__ == "__main__":
 # Fix numpy array broadcasting
 
 # Add type annotations
+
+# Refactor signal processing
