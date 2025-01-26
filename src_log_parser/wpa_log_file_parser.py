@@ -153,3 +153,5 @@ if __name__ == "__main__":
 # Add requirements.txt for dependencies
 
 # Fix timestamp parsing
+
+# Improve plot formatting
