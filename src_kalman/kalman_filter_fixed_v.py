@@ -111,3 +111,5 @@ if __name__ == "__main__":
 # Improve error handling
 
 # Fix deprecation warnings
+
+# Improve numerical precision
