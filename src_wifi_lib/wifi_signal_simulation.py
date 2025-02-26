@@ -203,3 +203,5 @@ if __name__ == "__main__":
 # Add type annotations
 
 # Refactor signal processing
+
+# Add progress reporting
