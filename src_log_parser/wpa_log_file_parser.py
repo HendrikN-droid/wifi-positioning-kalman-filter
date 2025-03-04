@@ -157,3 +157,5 @@ if __name__ == "__main__":
 # Improve plot formatting
 
 # Add code comments
+
+# Improve logging
