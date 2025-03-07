@@ -159,3 +159,5 @@ if __name__ == "__main__":
 # Add code comments
 
 # Improve logging
+
+# Fix coordinate bugs
