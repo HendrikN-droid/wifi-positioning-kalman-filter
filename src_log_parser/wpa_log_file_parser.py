@@ -161,3 +161,5 @@ if __name__ == "__main__":
 # Improve logging
 
 # Fix coordinate bugs
+
+# Fix regex patterns
