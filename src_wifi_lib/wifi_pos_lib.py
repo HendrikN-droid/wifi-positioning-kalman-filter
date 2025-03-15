@@ -513,3 +513,5 @@ def plot_position_error_compare(path, config):
 
 
 # Reduce memory usage
+
+# Optimize loops
