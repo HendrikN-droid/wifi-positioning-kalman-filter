@@ -207,3 +207,5 @@ if __name__ == "__main__":
 # Add progress reporting
 
 # Enhance documentation
+
+# Add YAML support
