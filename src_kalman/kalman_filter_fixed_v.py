@@ -115,3 +115,5 @@ if __name__ == "__main__":
 # Improve numerical precision
 
 # Fix timezone bugs
+
+# Add quality checks
