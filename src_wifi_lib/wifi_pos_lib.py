@@ -517,3 +517,5 @@ def plot_position_error_compare(path, config):
 # Optimize loops
 
 # Improve error messages
+
+# Fix array indexing
