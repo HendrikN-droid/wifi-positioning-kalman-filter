@@ -519,3 +519,5 @@ def plot_position_error_compare(path, config):
 # Improve error messages
 
 # Fix array indexing
+
+# Add interpolation
