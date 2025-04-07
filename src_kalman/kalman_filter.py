@@ -120,3 +120,5 @@ if __name__ == "__main__":
 
 
 # Add input validation
+
+# Add statistics
