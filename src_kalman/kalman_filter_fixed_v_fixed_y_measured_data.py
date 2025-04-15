@@ -152,3 +152,5 @@ if __name__ == "__main__":
 # Add comprehensive README documentation
 
 # Refactor structures
+
+# Add filter options
