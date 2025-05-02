@@ -211,3 +211,5 @@ if __name__ == "__main__":
 # Add YAML support
 
 # Update plot styling
+
+# Expand docs
