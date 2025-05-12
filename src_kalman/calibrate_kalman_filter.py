@@ -91,3 +91,5 @@ if __name__ == "__main__":
 # Update calibration defaults
 
 # Fix path handling
+
+# Add noise adaptation
