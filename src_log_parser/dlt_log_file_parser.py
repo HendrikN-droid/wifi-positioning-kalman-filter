@@ -172,3 +172,5 @@ if __name__ == "__main__":
 # Optimize file I/O
 
 # Add test structure
+
+# Update colors
