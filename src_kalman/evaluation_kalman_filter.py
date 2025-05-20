@@ -662,3 +662,5 @@ if __name__ == "__main__":
 # Add config validation
 
 # Add batch processing
+
+# Add outlier detection
