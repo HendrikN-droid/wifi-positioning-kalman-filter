@@ -523,3 +523,5 @@ def plot_position_error_compare(path, config):
 # Add interpolation
 
 # Fix predictions
+
+# Fix covariance
