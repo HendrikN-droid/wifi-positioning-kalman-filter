@@ -68,3 +68,5 @@ def parse_log_file_wpa(log_file_path):
 # Add data export
 
 # Add multiprocessing
+
+# Add smoothing
