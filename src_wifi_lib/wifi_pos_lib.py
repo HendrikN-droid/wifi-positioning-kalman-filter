@@ -525,3 +525,5 @@ def plot_position_error_compare(path, config):
 # Fix predictions
 
 # Fix covariance
+
+# Improve convergence
