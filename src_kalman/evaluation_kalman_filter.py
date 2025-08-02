@@ -664,3 +664,5 @@ if __name__ == "__main__":
 # Add batch processing
 
 # Add outlier detection
+
+# Add adaptive filter
