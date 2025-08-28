@@ -154,3 +154,5 @@ if __name__ == "__main__":
 # Refactor structures
 
 # Add filter options
+
+# Improve stability
